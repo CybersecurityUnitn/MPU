@@ -1,0 +1,6 @@
+mpu_armv7.h:188:22:ARM_MPU_Enable	16	static,ignoring_inline_asm
+mpu_armv7.h:200:22:ARM_MPU_Disable	4	static,ignoring_inline_asm
+maliciousLibrary.c:12:6:disableMPU	8	static
+maliciousLibrary.c:17:6:enableMPU	8	static
+maliciousLibrary.c:22:6:maliciousActivity	8	static
+maliciousLibrary.c:32:5:performTask	8	static
